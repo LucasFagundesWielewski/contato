@@ -4,11 +4,11 @@ Página web desenvolvida para contatos!
 
 ## Screenshots
 
-## Urna White
+## Página White
 
 <img src="images/white_mode.png" alt="" />
 
-## Urna Black
+## Página Black
 
 <img src="images/dark_mode.png" alt="" />
 
